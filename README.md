@@ -1,0 +1,2 @@
+# SushiDB-INS
+Ins
