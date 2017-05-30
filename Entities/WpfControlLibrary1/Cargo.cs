@@ -8,7 +8,7 @@ namespace WpfControlLibrary1
 {
     public class Cargo
     {
-        int idCargo;
+        int idCarga;
         string nombre;
 
         public Cargo() { }
